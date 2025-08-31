@@ -185,6 +185,6 @@ plt.show()
 ---
 
 ## 6) Créditos y licencia del dataset
-- **Autor/es del notebook:** _[tu nombre/equipo]_  
-- **Dataset(s):** _[nombres y enlaces]_  
-- **Licencia:** _[detalla la licencia de cada dataset y de tu código]_
+- **Autor/es del notebook:** Clayanela Zambrano 
+- **Dataset(s):** AT&T Database of Faces
+- **Licencia:** Libre
